@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+.header_h1{
+    margin-top: 15px;
+}
+.shedule{
+    border: black 1px solid;
+    
+}
+.shedule_h2{
+    border:  1px solid black;
+}
