@@ -14,7 +14,11 @@ body{
     border: black 1px solid;
     margin-top: 10px;
     width: 155px;
+    display:none
     
+}
+#active{
+    display: block;
 }
 .shedule_h2{
     border:  1px solid black;
@@ -25,4 +29,19 @@ body{
 }
 .shedule1{
 
+}
+.nav{
+    text-align: center;
+    margin-top: 15px;
+}
+.button{
+    font-size:25px;
+    border-radius: 100%;
+    color: white;
+    border: 1px black solid;
+    background-color: darkcyan;
+    
+}
+.button:last-child{
+    margin-left: 15px;
 }
