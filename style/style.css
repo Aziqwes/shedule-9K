@@ -1,7 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 body{
     font-family: 'Roboto', sans-serif;
 }
@@ -13,9 +10,17 @@ body{
     margin-top: 15px;
 }
 .shedule{
+    text-align: center;
     border: black 1px solid;
-    
+    width: 100%;
+    width: 155px;
+    padding: 0;
+    margin: 0;
 }
 .shedule_h2{
     border:  1px solid black;
+    margin: 0;
+}
+.shedule1{
+        
 }
