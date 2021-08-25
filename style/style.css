@@ -20,7 +20,7 @@ body{
 #active{
     display: block;
 }
-.shedule_h2{
+.shedule_h3{
     border:  1px solid black;
     margin: 0;
     align-items: center;
@@ -41,7 +41,12 @@ body{
     font-size: 30px;
     background-color: darkcyan;
     border-radius: 10px;
-    
+    cursor: pointer;
+}
+.button:hover{
+    color: darkcyan;
+    background-color: white;
+    transition: all .6s;
 }
 .button:last-child{
     margin-left: 15px;
