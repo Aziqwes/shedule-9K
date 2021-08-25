@@ -35,11 +35,12 @@ body{
     margin-top: 15px;
 }
 .button{
-    font-size:25px;
-    border-radius: 100%;
+    width: 70px;
+    height: 40px;
     color: white;
-    border: 1px black solid;
+    font-size: 30px;
     background-color: darkcyan;
+    border-radius: 10px;
     
 }
 .button:last-child{
