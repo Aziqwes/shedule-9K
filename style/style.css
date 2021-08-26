@@ -11,7 +11,7 @@ body{
 }
 .shedule{
     margin: 0 auto;
-    border: black 1px solid;
+    border: black 2px solid;
     margin-top: 90px;
     width: 200px;
     height: 200px;
@@ -23,7 +23,7 @@ body{
     display: block;
 }
 .shedule_h3{
-    border:  1px solid black;
+    border:2px solid black;
     margin: 0;
     align-items: center;
     font-family: 'Merriweather', serif;
