@@ -16,6 +16,7 @@ body{
     width: 200px;
     height: 200px;
     display:none
+
     
 }
 #active{
@@ -25,14 +26,15 @@ body{
     border:  1px solid black;
     margin: 0;
     align-items: center;
-    
+    font-family: 'Merriweather', serif;
     text-align: center;
 }
 .shedule1{
 
 }
 .shedule_li{
-    padding-top: 6px;
+    font-family: 'Merriweather', serif;
+    padding-top: 4px;
 }
 .nav{
     text-align: center;
